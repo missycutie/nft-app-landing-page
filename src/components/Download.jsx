@@ -16,9 +16,9 @@ const Download = () => {
         </div>
         <a
           className={styles.btnPrimary}
-          href='https://www.google.com'
-          type="button"
+          href='https://github.com/missycutie/nft-app'
           target="_blank"
+          rel="noopener"
         >
           Source Code
         </a>
